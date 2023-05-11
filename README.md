@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @C4rlos-Mor4n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hola! 👋
 
-<!---
-C4rlos-Mor4n/C4rlos-Mor4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy un desarrollador junior especializado en Node.js.
+
+## Habilidades
+
+- Node.js
+- JavaScript
+- HTML
+- CSS
+
+## Experiencia
+
+He trabajado en varios proyectos utilizando Node.js y otras tecnologías web. Me apasiona crear aplicaciones web eficientes y fáciles de usar.
