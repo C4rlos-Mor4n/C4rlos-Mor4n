@@ -19,5 +19,5 @@ He trabajado en varios proyectos utilizando Node.js y otras tecnologías web. Me
 
 Aquí hay algunas de mis contribuciones recientes:
 
-- [Contribución 1](https://github.com/codigoencasa/bot-whatsapp)
+- <p><a href="https://github.com/codigoencasa/bot-whatsapp"><img align="center" src="https://img.shields.io/badge/CodigoEnCasa-green.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(conectar)</strong> En mi perfil de LinkedIn</small></p>
 
