@@ -8,6 +8,7 @@ Soy un desarrollador junior especializado en Node.js.
 - JavaScript
 - HTML
 - CSS
+- Python
 
 ## Experiencia
 
