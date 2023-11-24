@@ -6,10 +6,13 @@
 
 Soy un dedicado estudiante de Ingeniería de la Universidad Politécnica Salesiana y un entusiasta del desarrollo de software que se especializa en la creación de soluciones tecnológicas avanzadas. Mis días están llenos de exploración y perfeccionamiento en el vasto mundo del desarrollo web y la inteligencia artificial.
 
-## Habilidades Profesionales
-- 🌐 **Desarrollo Web Completo**: Experto en HTML5, CSS3, JavaScript, Java, Node.js.
-- 🐍 **Programación Avanzada**: Proficiente en Python, con aplicaciones prácticas en desarrollo de software y automatización.
-- 💾 **Gestión de Bases de Datos**: Experiencia en diseño y mantenimiento de bases de datos con MongoDB.
+## Habilidades
+
+- 🌐 **Desarrollo Web Completo**: Experto en HTML5, CSS3, JavaScript, Java, Node.js. Capaz de crear sitios web dinámicos y responsivos, garantizando una óptima experiencia de usuario.
+- 🐍 **Programación Avanzada**: Proficiente en Python, con aplicaciones prácticas en desarrollo de software y automatización de tareas y procesos.
+- 💾 **Gestión de Bases de Datos**: Experiencia en diseño, implementación y mantenimiento de bases de datos, especialmente con MongoDB, asegurando la integridad y seguridad de los datos.
+- 🤖 **Desarrollo de Chatbots Multifuncionales**: Habilidad en la creación y mantenimiento de chatbots utilizando inteligencia artificial o técnicas de automatización para mejorar procesos y eficiencias en empresas.
+
 
 ## Herramientas y Tecnologías
 <p align="left">
