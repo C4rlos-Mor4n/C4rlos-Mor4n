@@ -9,10 +9,9 @@ Soy un dedicado estudiante de Ingeniería de la Universidad Politécnica Salesia
 ## Habilidades
 
 - 🌐 **Desarrollo Web Completo**: Experto en HTML5, CSS3, JavaScript, Java, Node.js. Capaz de crear sitios web dinámicos y responsivos, garantizando una óptima experiencia de usuario.
-- 🐍 **Programación Avanzada**: Proficiente en Python, con aplicaciones prácticas en desarrollo de software y automatización de tareas y procesos.
+- 🤖 **Desarrollo de Chatbots Avanzados**: Especialista en integrar soluciones de chatbots impulsadas por IA utilizando tecnologías como Langchain y Tecnologías de Chatbots de IA para mejorar el compromiso del usuario y la eficiencia del proceso.
+- 🐍 **Programación Avanzada**: Proficiente en Node.js, Python, TypeScript, con aplicaciones prácticas en desarrollo de software y automatización de tareas y procesos.
 - 💾 **Gestión de Bases de Datos**: Experiencia en diseño, implementación y mantenimiento de bases de datos, especialmente con MongoDB, asegurando la integridad y seguridad de los datos.
-- 🤖 **Desarrollo de Chatbots Multifuncionales**: Habilidad en la creación y mantenimiento de chatbots utilizando inteligencia artificial o técnicas de automatización para mejorar procesos y eficiencias en empresas.
-
 
 ## Herramientas y Tecnologías
 <p align="left">
@@ -23,10 +22,9 @@ Soy un dedicado estudiante de Ingeniería de la Universidad Politécnica Salesia
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 </p>
-
-## Pasión y Proyectos Personales
-En mis tiempos libres, me dedico a trabajar en pequeños proyectos que me permiten innovar y explorar nuevas fronteras en el ámbito de los chatbots. Mi capacidad para adaptar y optimizar estas soluciones conversacionales me ha convertido en un referente en el área. Soy un aprendiz ágil y constante, comprometido con la adquisición de nuevos conocimientos y habilidades cada día.
 
 ## Colaboraciones Open Source
 - 🤖 [Librería Open Source para Chatbots](https://github.com/codigoencasa/bot-whatsapp): Contribuyendo al desarrollo y mantenimiento de una librería innovadora para la creación de chatbots, en colaboración con [@leifermendez](https://github.com/leifermendez). Este proyecto es un faro de la colaboración comunitaria, donde la mejora continua y el trabajo en equipo son la norma.
