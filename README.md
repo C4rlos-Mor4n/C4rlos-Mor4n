@@ -11,9 +11,6 @@ Soy un dedicado estudiante de Ingeniería de la Universidad Politécnica Salesia
 - 🌐 **Desarrollo Web Completo**: Experto en HTML5, CSS3, JavaScript, React, Next.js y Node.js. Capaz de crear sitios web dinámicos y responsivos, garantizando una óptima experiencia de usuario.
 - 🤖 **Desarrollo de Chatbots Avanzados**: Especialista en integrar soluciones de chatbots impulsadas por IA utilizando tecnologías como Langchain y Tecnologías de Chatbots de IA para mejorar el compromiso del usuario y la eficiencia del proceso.
 - ⚙️ **Automatización de Procesos**: Altamente competente en la automatización de tareas y procesos mediante scripting y programación avanzada, optimizando flujos de trabajo y aumentando la eficiencia operativa.
-- 🐍 **Programación Avanzada**: Proficiente en Node.js, Python, TypeScript, con aplicaciones prácticas en desarrollo de software y automatización de tareas y procesos.
-- 💾 **Gestión de Bases de Datos**: Experiencia en diseño, implementación y mantenimiento de bases de datos, especialmente con MongoDB, asegurando la integridad y seguridad de los datos.
-
 
 ## Herramientas y Tecnologías
 <p align="left">
